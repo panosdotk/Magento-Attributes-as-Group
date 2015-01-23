@@ -1,0 +1,32 @@
+<config>
+	
+	<global>
+		<blocks>
+			<Webgraphee_AttributesAsGroup>
+				<class>Webgraphee_AttributesAsGroup_Block</class>
+			</Webgraphee_AttributesAsGroup>
+		</blocks>
+	</global>
+	
+
+    <frontend>
+        <layout>
+            <updates>
+                <AttributesAsGroup>
+                    <file>AttributesAsGroup.xml</file>
+                </AttributesAsGroup>
+                
+            </updates>
+        </layout>
+        <translate>
+        	<modules>
+        		<Webgraphee_AttributesAsGroup>
+        			<files>
+        				<default>Webgraphee_AttributesAsGroup.csv</default>
+        			</files>
+        		</Webgraphee_AttributesAsGroup>
+        	</modules>
+        </translate>
+    </frontend>
+
+</config>
