@@ -1,6 +1,6 @@
 # Magento-Attributes-as-Group
 
-### How to install/configure
+### How to install
 
 1. Copy the app folders into your magento root folder.
 
